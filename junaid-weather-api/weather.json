@@ -1,0 +1,31 @@
+{
+      weather: {
+        coord: { lon: 14.6819+"° N", lat:  77.6006+"° E"  },
+        weather: [
+          {
+            main: 'Cloudy',
+            description:
+              'Today is cloudy because \ncold air cannot hold as much water vapor as warm air. Invisible particles in the air in the form of pollution, smoke, dust or even tiny particles of dirt help form a nucleus on which the water molecules can attach. When these droplets come together, they form a cloudy day in Anantapur.',
+            icon:
+              'https://cdn.iconscout.com/icon/free/png-256/cloudy-day-1716353-1461198.png',
+          },
+        ],
+        base: 'All india weather and radio station - Ananatapur',
+        main: {
+          temp: 29 + '°C',
+          feels_like: 32 + '°C',
+          pressure: 1010 + 'Hg',
+          humidity: 64 + '%',
+          sea_level: 355 + 'm',
+          precipitation: 2 + '%',
+        },
+        visibility: 8.05 + ' km',
+        wind: { "speed": 21 + ' km/h', "deg": 266, gust: 8 + 'KM/H' },
+        sys: {
+          country: 'INDIA',
+          state: 'Andhra Pradesh',
+          district: 'Anantapur',
+        }
+      }
+
+    }
