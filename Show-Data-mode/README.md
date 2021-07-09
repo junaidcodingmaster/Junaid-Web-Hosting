@@ -1,7 +1,7 @@
 # ShowData mode
 show data is a function created by [Junaid](https://github.com/junaidcodingmaster).
 
-This function can be used in HTML , JS , NODE.JS , ANDROID APPS , ISO APPS , WEB APPS and also in REACT.JS.
+This function can be used in HTML , JS , ANDROID APPS , ISO APPS , WEB APPS and also in REACT.JS.
 
 It's helps to see all your data in advanced layout and style in console.
 
@@ -10,7 +10,9 @@ It's helps to see all your data in advanced layout and style in console.
 Here is the code:
 
 - HTML 
-```
+
+
+```html
 
 <script>
     // showData mode
@@ -55,10 +57,14 @@ Here is the code:
      }
    };
 </script>
+
+
 ```
 
+
+
 - JS
-```
+```javascript
 
 function showAllData = (permission, select_your_componunt) => {
      var ShowData = 'off';
@@ -103,7 +109,9 @@ function showAllData = (permission, select_your_componunt) => {
 
 ```
 
-- REACT.JS and NODE.JS
+
+
+- REACT.JS
 
 ```
     // showData mode
@@ -149,6 +157,8 @@ function showAllData = (permission, select_your_componunt) => {
    };
 
 ```
+
+
 
 This is the function you want to edit it means you want add your data in variable so it shows your data in console.
 
