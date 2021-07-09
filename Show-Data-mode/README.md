@@ -149,4 +149,6 @@ function showAllData = (permission, select_your_componunt) => {
 
 This is the function you want to edit it means you want add your data in variable so it shows your data in console.
 
-Are you can go to d[showdatamode.com/full_version_v0.1](full_version_v0.1.md)
+Are you can go to d[showdatamode.com/full_version_v0.1](full_version_v0.1.md).
+
+# THIS IS A PROTOTYPE.
