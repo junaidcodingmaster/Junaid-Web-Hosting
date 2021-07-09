@@ -10,7 +10,7 @@ It's helps to see all your data in advanced layout and style in console.
 Here is the code:
 
 - HTML 
-```html 
+```
 
 <script>
     // showData mode
@@ -55,8 +55,6 @@ Here is the code:
      }
    };
 </script>
-
-
 ```
 
 - JS
